@@ -1,4 +1,4 @@
---Projet Microservices avec Spring Boot--
+**Projet Microservices avec Spring Boot**
 
 Ce projet illustre une architecture microservices basée sur Spring Boot. Il comprend les services suivants :
 
@@ -16,14 +16,14 @@ Config Service : Centralise la configuration des microservices.
 
 Config Repo : Dépôt local contenant les fichiers de configuration centralisée.
 
---Prérequis--
+**Prérequis**
 
 Java JDK 17 ou plus récent
 
 Maven
 
 Un IDE compatible (IntelliJ IDEA )
---Architecture--
+**Architecture**
 
 L’architecture de ce projet est basée sur des microservices indépendants, chacun ayant une responsabilité spécifique. Les services communiquent entre eux via REST et sont enregistrés dans le Discovery Service (Eureka).
 
